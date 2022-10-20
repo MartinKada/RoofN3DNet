@@ -48,7 +48,7 @@ doi = {10.5194/isprs-archives-XLVIII-4-W4-2022-61-2022}
 
 ## RoofN3D Data
 
-For convenience, the repository contains the [RoofN3D](https://roofn3d.gis.tu-berlin.de/) data in the respective folder. See the papers ["RoofN3D: Deep Learning Training Data for 3D Building Reconstruction"](https://doi.org/10.5194/isprs-archives-XLII-2-1191-2018) and ["RoofN3D: A Database for 3D Building Reconstruction with Deep Learning"](https://doi.org/10.14358/PERS.85.6.435) for more information. The data can also be downloaded from https://roofn3d.gis.tu-berlin.de/.
+The neural network works with the RoofN3D data that needs to be first downloaded from https://roofn3d.gis.tu-berlin.de/, and the csv-files stored in a folder called RoofN3D (without any subfolders). For more information about RoofN3D, see the papers ["RoofN3D: Deep Learning Training Data for 3D Building Reconstruction"](https://doi.org/10.5194/isprs-archives-XLII-2-1191-2018) and ["RoofN3D: A Database for 3D Building Reconstruction with Deep Learning"](https://doi.org/10.14358/PERS.85.6.435).
 
 ## Training
 
